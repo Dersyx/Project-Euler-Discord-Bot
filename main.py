@@ -158,5 +158,5 @@ async def getproblem(ctx, problem_id):
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-TOKEN = ""
+TOKEN = "NTYzMTc2ODcyMzg1NTc2OTYy.XPK_tQ.tPG0rzHvqgkFgxySsfdNSt62CTw"
 client.run(TOKEN)  # Runs the bot
